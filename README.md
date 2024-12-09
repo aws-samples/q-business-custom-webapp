@@ -1,10 +1,17 @@
 # Workhop: Using Amazon Q Business APIs Using a Custom Web Application
 
-# Contents:
+### Objective
+This hands-on workshop will show you how to use Amazon Q Business APIs
+in a web application built using Python and have a conversation about the data indexed by Q Business.
+
+# URL:
+https://github.com/aws-samples/q-business-custom-webapp
+
+# Contents
 This repo is accompanying code for the workshop above
 
 
 ## Getting started
-Please find this workshop and a detailed guide at https://catalog.us-east-1.prod.workshops.aws/workshops/5d50eade-476f-417c-b46a-050a92053f8c
+Please find this workshop and a detailed guide at the URL above.
 
 If the previous link does not work, please search for the workshop name at https://workshops.aws
