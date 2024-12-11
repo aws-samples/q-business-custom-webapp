@@ -1,6 +1,6 @@
 pyjwt
-streamlit-oauth
-httpx-oauth
-streamlit
+streamlit-oauth==0.1.13
+httpx-oauth==0.14.1
+streamlit==1.34
 streamlit-feedback
 boto3
